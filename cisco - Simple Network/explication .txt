@@ -1,0 +1,15 @@
+
+                                          ***Abidi Iheb***
+                                   
+Je présente une topologie simplifiée comprenant des bases de configuration d'adresses IP, 
+de tables de routage et de serveurs. La configuration comprend trois routeurs.
+
+Le premier routeur est directement connecté au multiswitch 1.
+ Ce dernier est à son tour connecté à quatre commutateurs et un serveur DHCP.
+ Chaque commutateur est relié à quatre ordinateurs ou machines.
+
+Le deuxième routeur est directement connecté au multiswitch qui est relié à deux serveurs :
+ un serveur HTTP et un serveur DNS.
+
+Le troisième routeur est directement connecté à un multiswitch qui est relié à un serveur DHCP2 
+et à deux commutateurs. Chaque commutateur est connecté à deux machines.
